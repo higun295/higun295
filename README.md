@@ -4,7 +4,7 @@
 </br></br></br>
 
 
-소속 Community</br>
+소속 Community(놀러오세요~~)</br>
 <a href="https://forum.dotnetdev.kr/u/comavler/summary">
     <img src="https://profile.dotnetdev-badge.kr/api/v1/badge/medium?id=comavler&theme=Dotnet" width="350"/>
 </a>
