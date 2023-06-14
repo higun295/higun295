@@ -1,3 +1,5 @@
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhigun295%2Fhit-counter&count_bg=%230073FF&title_bg=%239C6129&icon=creativecommons.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 <a href="https://forum.dotnetdev.kr/u/comavler/summary">
     <img src="https://profile.dotnetdev-badge.kr/api/v1/badge/medium?id=comavler&theme=Dotnet" width="350"/>
 </a>
