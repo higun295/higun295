@@ -17,6 +17,21 @@
     </tr>
 </table>
 
+</br>
+
+<table>
+    <tr>
+        <td>
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=higun295"
+                 height="180">
+        </td>
+        <td>
+            <img src="http://mazandi.herokuapp.com/api?handle=higun295&theme=warm"
+                 height="180"/>
+        </td>
+    </tr>
+</table>
+
 </br></br>
 
 <h3>소속 Community</h3>
@@ -28,3 +43,11 @@
 <a href="https://forum.dotnetdev.kr/u/comavler/summary">
     <img src="https://profile.dotnetdev-badge.kr/api/v1/badge/medium?id=comavler&theme=Dotnet" height="100"/>
 </a>
+
+<!--
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=higun295)](https://solved.ac/higun295)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=higun295)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+-->
