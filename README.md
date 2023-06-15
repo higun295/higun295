@@ -5,7 +5,7 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=higun295&show_icons=true&theme=gradient" alt="Anurag's GitHub stats" 
+            <img src="https://github-readme-stats.vercel.app/api?username=higun295&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" 
                  height="180">
         </td>
         <td>
