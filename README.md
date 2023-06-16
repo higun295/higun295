@@ -6,12 +6,12 @@
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=higun295&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" 
-                 height="180">
+                 height="160">
         </td>
         <td>
             <a href="https://github.com/higun295/github-readme-stats">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higun295&layout=compact" alt="Top Languages"
-                     height="180">
+                     height="160">
             </a>
         </td>
     </tr>
@@ -23,11 +23,11 @@
     <tr>
         <td>
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=higun295"
-                 height="180">
+                 height="160">
         </td>
         <td>
             <img src="http://mazandi.herokuapp.com/api?handle=higun295&theme=warm"
-                 height="180"/>
+                 height="160"/>
         </td>
     </tr>
 </table>
