@@ -8,12 +8,6 @@
             <img src="https://github-readme-stats.vercel.app/api?username=higun295&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" 
                  height="180">
         </td>
-        <td>
-            <a href="https://github.com/higun295/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higun295&layout=compact" alt="Top Languages"
-                     height="180">
-            </a>
-        </td>
     </tr>
 </table>
 
