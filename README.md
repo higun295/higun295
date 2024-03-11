@@ -43,8 +43,14 @@
 
 <h3>소속 Community</h3>
 <h5>
+    <a href="https://blog.naver.com/comavler">
+        1. 블로그
+    </a>
+</h5>
+</br>
+<h5>
     <a href="https://forum.dotnetdev.kr/">
-        1. 닷넷데브
+        2. 닷넷데브
     </a>
 </h5>
 <a href="https://forum.dotnetdev.kr/u/comavler/summary">
