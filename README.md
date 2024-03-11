@@ -58,6 +58,49 @@
     <img src="https://profile.dotnetdev-badge.kr/api/v1/badge/medium?id=comavler&theme=Dotnet" height="100"/>
 </a>
 
+</br></br>
+
+<h3>Skills</h3>
+<h5>
+    1. Database
+</h5>
+<div>
+    <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+    <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+<h5>
+    2. Language
+</h5>
+<div>
+    <img src="https://img.shields.io/badge/CSharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+</div>
+<h5>
+    3. Framework
+</h5>
+<div>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</div>
+
+</br></br>
+
+<h3>Certificate</h3>
+<h5>
+    1. SQLD
+</h5>
+<h5>
+    2. 정보처리기사
+</h5>
+
 <!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=higun295)](https://solved.ac/higun295)
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=higun295)
