@@ -39,7 +39,7 @@
 </table>
 -->
 
-</br></br>
+</br>
 
 <h3>소속 Community</h3>
 <h5>
