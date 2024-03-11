@@ -43,19 +43,22 @@
 
 <h3>Community</h3>
 <h5>
-    <a href="https://blog.naver.com/comavler">
-        1. 블로그
-    </a>
+    1. SNS
 </h5>
+<a href="https://blog.naver.com/comavler">
+    <img src="https://img.shields.io/badge/COMAVLER'S BLOG-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/heekwon-shin-51585b122/?locale=en_US">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
 <h5>
     <a href="https://forum.dotnetdev.kr/">
-        2. 닷넷데브
+        2. DotNetDev
     </a>
 </h5>
 <a href="https://forum.dotnetdev.kr/u/comavler/summary">
     <img src="https://profile.dotnetdev-badge.kr/api/v1/badge/medium?id=comavler&theme=Dotnet" height="100"/>
 </a>
-
 
 <!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=higun295)](https://solved.ac/higun295)
