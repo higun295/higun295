@@ -41,7 +41,7 @@
 
 </br>
 
-<h3>소속 Community</h3>
+<h3>Community</h3>
 <h5>
     <a href="https://blog.naver.com/comavler">
         1. 블로그
