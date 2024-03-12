@@ -100,11 +100,3 @@
 <h5>
     2. 정보처리기사
 </h5>
-
-<!--
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=higun295)](https://solved.ac/higun295)
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=higun295)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
--->
