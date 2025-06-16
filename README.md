@@ -51,13 +51,13 @@
 <a href="https://www.linkedin.com/in/heekwon-shin-51585b122/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
-<h5>
+<!-- <h5>
     2. DotNetDev
 </h5>
 <a href="https://forum.dotnetdev.kr/u/comavler/summary">
     <img src="https://profile.dotnetdev-badge.kr/api/v1/badge/medium?id=comavler&theme=Dotnet" height="100"/>
 </a>
-
+ -->
 </br></br>
 
 <h3>Skills</h3>
