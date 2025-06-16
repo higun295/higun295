@@ -1,7 +1,7 @@
-<a href="https://hits.seeyoufarm.com">
+<!-- <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhigun295%2Fhit-counter&count_bg=%230073FF&title_bg=%239C6129&icon=creativecommons.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </a>
-
+-->
 
 <td>
     <img src="https://github-readme-stats.vercel.app/api?username=higun295&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" height="180">
